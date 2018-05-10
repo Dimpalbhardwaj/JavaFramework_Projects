@@ -1,0 +1,8 @@
+com\optipace\fileUploading\util\MultiFileValidator.class
+com\optipace\fileUploading\config\FileConfiguration.class
+com\optipace\fileUploading\model\MultiFileBucket.class
+com\optipace\fileUploading\model\FileBucket.class
+com\optipace\fileUploading\controller\FileUploadController.class
+com\optipace\fileUploading\model\FileDetail.class
+com\optipace\fileUploading\util\FileValidator.class
+com\optipace\fileUploading\config\FileWebInitializer.class
