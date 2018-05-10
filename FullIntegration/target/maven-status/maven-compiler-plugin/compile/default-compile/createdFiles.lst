@@ -1,0 +1,6 @@
+com\optipace\fullintegration\dao\SocietyRegistrationDAO.class
+com\optipace\fullintegration\config\SpringWebAppInitializer.class
+com\optipace\fullintegration\dto\SocietyRegistrationDTO.class
+com\optipace\fullintegration\service\SocietyRegistrationService.class
+com\optipace\fullintegration\config\SpringBean.class
+com\optipace\fullintegration\controller\SocietyController.class
