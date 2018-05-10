@@ -1,0 +1,8 @@
+com\optipace\javaConfig\service\UserService.class
+com\optipace\javaConfig\controller\UserController.class
+com\optipace\javaConfig\service\UserServiceImpl.class
+com\optipace\javaConfig\config\SpringBean.class
+com\optipace\javaConfig\dao\UserDAOImpl.class
+com\optipace\javaConfig\dao\UserDAO.class
+com\optipace\javaConfig\dto\UserDTO.class
+com\optipace\javaConfig\config\SpringWebAppInitializer.class
